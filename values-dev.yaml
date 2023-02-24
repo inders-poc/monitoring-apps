@@ -1,0 +1,18 @@
+global:
+  envName: dev
+
+  # default:
+  #   app:
+  #     enableAutoSync: true          
+
+  projects:
+    prometheus-app:
+      enabled: true       
+    thanos:
+      enabled: true   
+
+  applications:
+    prometheus-app:
+      enabled: true 
+    thanos:
+      enabled: true                 
