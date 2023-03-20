@@ -1,0 +1,6 @@
+dependencies:
+- name: argo-apps-base
+  repository: https://inders-poc.github.io/helm-charts/
+  version: 1.0.10
+digest: sha256:7f63b701c14a2fb63531d9ebd7e0dd745e34a46b66a49aeab9e2b807cef79ed3
+generated: "2023-03-20T23:54:46.6434+04:00"
